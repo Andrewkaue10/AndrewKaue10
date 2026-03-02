@@ -1,6 +1,6 @@
 # 👋 Olá, eu sou Andrew Kauê!
 
-🎯 **Desenvolvedor em formação | Apaixonado por tecnologia e inovação**
+🎯 **Tecnólogo da informação | Analista em desenvolvimento de sistemas**
 
 Sou estudante de **Análise e Desenvolvimento de Sistemas** na **Faculdade SENAC Recife** e atuo na área de **Tecnologia da Informação**.  
 Tenho interesse em desenvolvimento de software, interfaces intuitivas e soluções criativas que unam desempenho e boa experiência para o usuário.
